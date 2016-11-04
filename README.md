@@ -1,3 +1,3 @@
 ##Choose your own adventure!!
 ----------------------
-Click [here]() to start.
+Click [here](first-day-college) to start.
